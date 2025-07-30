@@ -1,0 +1,10 @@
+{
+  "name": "Smart Auto Blogger",
+  "version": "2.3",
+  "author": "Sohaib Hassan",
+  "download_url": "https://github.com/hassanspacedev/smart-auto-blogger/releases/download/v2.3/smart-auto-blogger.zip",
+  "sections": {
+    "description": "Automatically imports, rewrites, and publishes posts from RSS feeds based on keywords.",
+    "changelog": "<h4>Version 2.3</h4><ul><li>Added automatic update functionality.</li><li>Minor bug fixes.</li></ul>"
+  }
+}
