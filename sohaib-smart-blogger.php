@@ -3,7 +3,7 @@
  * Plugin Name:       Smart Auto Blogger
  * Plugin URI:        https://your-website.com/
  * Description:       Automatically imports, rewrites, and publishes posts from RSS feeds based on keywords.
- * Version:           2.3
+ * Version:           2.4
  * Author:            Sohaib Hassan
  * Author URI:        https://hassanspace.me/
  * License:           GPL-2.0-or-later
